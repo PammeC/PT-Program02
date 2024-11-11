@@ -15,13 +15,13 @@ This is a simple web server built using the Express.js framework. When the serve
 1. Clone the repository:
 
    ```
-   git clone [https://github.com/PammeC/PT-Program02.git]
+   git clone https://github.com/PammeC/PT-Program02.git
    ```
 
 2. Change to the project directory:
 
    ```
-   cd PT-Program01
+   cd PT-Program02
    ```
 
 3. Install the dependencies:
@@ -69,7 +69,7 @@ You can deploy this application on several hosting platforms, such as:
 
 The application is currently deployed on Render and can be accessed at the following link:
 
-[https://pt-program02-1.onrender.com]
+https://pt-program02-1.onrender.com
 
 ## Files
 
