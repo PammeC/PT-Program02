@@ -15,7 +15,7 @@ This is a simple web server built using the Express.js framework. When the serve
 1. Clone the repository:
 
    ```
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/PammeC/PT-Program02.git)
+   git clone [https://github.com/PammeC/PT-Program02.git]
    ```
 
 2. Change to the project directory:
@@ -69,7 +69,7 @@ You can deploy this application on several hosting platforms, such as:
 
 The application is currently deployed on Render and can be accessed at the following link:
 
-[https://pt-program01.onrender.com](https://pt-program02-1.onrender.com)
+[https://pt-program02-1.onrender.com]
 
 ## Files
 
