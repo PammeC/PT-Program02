@@ -15,13 +15,13 @@ This is a simple web server built using the Express.js framework. When the serve
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone [https://github.com/your-username/your-repository.git](https://github.com/PammeC/PT-Program02.git)
    ```
 
 2. Change to the project directory:
 
    ```
-   cd your-repository
+   cd PT-Program01
    ```
 
 3. Install the dependencies:
@@ -45,13 +45,13 @@ Alternatively, you can run the application using Docker:
 1. Build the Docker image:
 
    ```
-   docker build -t my-express-app .
+   docker build -t program02 .
    ```
 
 2. Run the Docker container:
 
    ```
-   docker run -p 4000:4000 my-express-app
+   docker run -p 4000:4000 program02
    ```
 
    This will start the container and map port 4000 of the container to port 4000 of the host machine. You can then access the application at `http://localhost:4000`.
@@ -69,7 +69,7 @@ You can deploy this application on several hosting platforms, such as:
 
 The application is currently deployed on Render and can be accessed at the following link:
 
-[https://pt-program01.onrender.com](https://pt-program01.onrender.com)
+[https://pt-program01.onrender.com](https://pt-program02-1.onrender.com)
 
 ## Files
 
